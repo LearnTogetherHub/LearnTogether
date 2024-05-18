@@ -1,0 +1,25 @@
+#print {
+	font-family: 'Times New Roman' ,Georgia, serif; 
+	color: #000000;
+	font-size:10pt;
+	font_weight: normal;
+	width: auto;
+	margin: 0 15% 0 0;
+	background-color: #ffffff;
+	}
+
+b	{
+	font-weight: bold;
+	}
+
+#no_print {
+	display: none;
+	}
+
+/* should confirm_email be combined w/ #print above?
+also change to class and change name to print_area so it can be searched */
+.confirm_email{
+	margin: 0;
+	padding: 2em 0 2em 0;
+	width: auto;
+	}

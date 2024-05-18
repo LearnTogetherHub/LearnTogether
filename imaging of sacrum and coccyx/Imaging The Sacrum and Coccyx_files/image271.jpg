@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+	<html>
+	<head>
+		<title>Online Radiography Continuing Education, Radiology and radiography CE credit CEU</title>
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<script language="Javascript" type="text/javascript" src="js.js"></script>
+		<META NAME="RATING" CONTENT="General">
+		<META NAME="revisit-after" CONTENT="14 days">
+		<META NAME="Description" CONTENT="CE Essentials offers radiography continuing education and CEU for radiology and X ray continuing education for radiologic technologist.  Online testing and immediate certificate" >
+		<META NAME="keywords" CONTENT="California radiology radiography continuing education CE credits X ray online" >
+
+	<link rel="stylesheet" href="style_print.css" type="text/css" media="print">
+	</head>
+
+	<body  >
+	<!-- wrapper -->
+	<div id="wrapper" class="wrapper">
+
+	<!-- header -->
+	<div id="header" class="header" style="background-color: #ffffff; padding: 0;">
+		<table width="760" class="main">
+			<tr>
+<!--
+				<td class="header_logo">
+					<br><a href="index.php">
+					<img src="images/ce_logo.gif" height="144px" width="276px" alt="CE Essentials, LLC logo" border="0"></a><br>
+					Continuing Education <span style="font-style: italic;">Essentials</span><br><br>
+				</td>
+				<td class="header_middle">
+					<h1 class="header_professionals"> Radiography<br>Continuing Education<br> for <br>
+					radiologic X ray technologist</h1><br>1-800-370-0614<br>
+
+				</td>
+-->
+				<td class="header_logo">
+					<a href="index.php">
+					<img src="images/cee_logo.jpg" alt="CE Essentials, LLC logo" border="0"></a>
+					<h1 class="header_professionals">Online Radiography Continuing Education<br>for Radiologic X ray Technologist</h1>
+					<span class="header_phone">1-800-370-0614</span><br><br>
+				</td>
+
+				<td class="header_menu">
+					<a href="index.php">home</a><br>
+					<a href="article.php">online self learning articles</a><br>
+					<a href="seminars.php">online seminars</a><br>
+					<a href="site_info.php#payopts">payment options</a><br>
+					<a href="site_info.php">more site information</a><br>
+					<a href="about.php">about us</a><br>
+					<a href="contact.php">contact us</a><br>
+					<a href="faqs.php">continuing ed Q/A</a><br>
+										<a href="https://www.ceessentials.net/login.php">member log in</a>
+				</td>
+			</tr>
+		</table>
+
+		<div class="header_welcome_bar">
+			&nbsp;
+		</div> <!--end welcome bar-->
+	</div> <!--end header-->
+
+	<div id="header_2" class="header_2">
+	<table class="header_2">
+
+		<tr>
+<!-- -->
+			<td>
+				<img src="images/clipboard_guy.jpg" height="248px" width="162px" alt="clipboard guy">
+			</td>
+
+			<td class="header_2_center">
+				<p>We Offer:</p>
+				<ul>
+					<li>Online Self Learning CE Articles
+						<span style="font-size: 11px;">
+						<a href="article.php">Browse...</a>
+						</span>
+					</li>
+<!--					<li>Live Online Instructor Directed CE Seminars</li> -->
+				<!--
+					<li>Live Online CE Seminars
+						<span style="font-size: 11px;">
+						<a href="seminars.php">Browse...</a>
+						</span>
+					</li>
+				-->
+				</ul>
+				<p>Why Choose Us?</p>
+				<ul>
+					<li>All of our radiology CE credits are ASRT approved category&nbsp;A</li>
+					<li>All of our radiology CE credits meet ARRT&nbsp;CE reporting requirements</li>
+					<li>Many of our radiology CE credits also satisfy additional reporting requirements:</li>
+					<ul>
+					<li>California radiology continuing education credit requirements</li>
+					<li>Iowa state license requirements</li>
+					<li>Florida state license requirements</li>
+					<li style="list-style-type: none; list-style-image: none;">
+							<span style="font-size: 11px;">
+							<a href="site_info.php#aboutArticles">Requirements satisfied details...</a>
+							</span></li>
+					</ul>
+
+<!--
+					<li>Many of our radiology CE credits satisfy additional state reporting requirements
+											<span style="font-size: 11px;">
+											<a href="article.php">Details...</a>
+											</span>
+					</li>
+-->
+
+	<li>Our tests are given online and scored online so you get your results immediately. Print your completion certificate online</li>
+					<li>We store your CE completion info for you so you can access it online. Need to reprint a certificate? Just log on</li>
+				</ul>
+				<p>Check Us Out:</p>
+				<ul>
+					<li>Read our online articles for <span class="text_red">FREE</span></li>
+					<li>Register with us to take our ASRT approved online tests for <span class="text_red">FREE</span></li>
+					<li>Browse our <a href="article.php"><span style="font-weight: bold;">articles</span></a></li>
+					<li>Interested? <a href="site_info.php"><span style="font-weight: bold;">Get all the details!</span></a></li>
+
+				</ul>
+			</td>
+
+			<td  class="header_2_right" rowspan="2">
+<br><b style="color: white; text-align: left;">Payment Options:</b><br>
+				<br>
+				<div class="payopts_border">
+				<div class="payopts_box">
+					<a href="site_info.php#mt3"><span style="font-weight: bold;">Annual Membership</span></a>
+					<br>
+					<span style="line-height: 50%;"><br></span>
+					<span style="font-size: 11px;">Get all of the CE article credits you need and lock
+						in an annual renewal price of $50.00!
+						<br>
+						<span style="line-height: 50%;"><br></span>
+						<a href="site_info.php#mt3">More...</a>
+					</span>
+				</div>
+				</div>
+				<br>
+
+				<div class="payopts_border">
+				<div class="payopts_box">
+					<a href="site_info.php#mt2"><span style="font-weight: bold;">Two Year Membership</span></a>
+					<br>
+					<span style="line-height: 50%;"><br></span>
+					<span style="font-size: 11px;">
+						Pay only $89.00 and get all of the CE article
+						credits you need for 2 years!
+						<br>
+						<span style="line-height: 50%;"><br></span>
+						<a href="site_info.php#mt2">More...</a>
+					</span>
+				</div>
+				</div>
+				<br>
+
+				<div class="payopts_border">
+				<div class="payopts_box">
+					<a href="site_info.php#mtPaygo"><span style="font-weight: bold;">Pay As You Go Option</span></a>
+					<br>
+					<span style="line-height: 50%;"><br></span>
+<!--
+					<span style="font-size: 11px;">Choose this option and pay by the credit only for
+						the credits you need: $7.00 per article
+						credit, $10.00 per seminar credit!
+						<br>
+-->
+					<span style="font-size: 11px;">Choose this option and pay by the credit only for
+						the credits you need: $7.00 per article
+						credit
+						<br>
+						<span style="line-height: 50%;"><br></span>
+						If you are sponsored, choose this option.
+						<br>
+						<span style="line-height: 50%;"><br></span>
+
+						<a href="site_info.php#mtPaygo">More...</a>
+					</span>
+				</div>
+				</div>
+				<br>
+
+				<span class="header_2_right_links2">
+				<a href="site_info.php">More Site Information</a><br>
+								<span style="line-height: .5em";><br></span>
+				<a href="login.php">Member Log In</a>
+				</span>
+				<br><br>
+
+			</td>
+		</tr>
+	</table>
+</div>
+	<!-- content -->
+	<div id="content" class="content">
+        <!--MAIN CONTENT WILL GO INSIDE THIS CELL-->
+
+<table>
+	<tr>
+<!--		<td valign="top" width="25%"> -->
+		<td valign="top" width="40%">
+
+<!--
+			<div class="red_border"><b class="red">Recently Added Articles:</b>
+			<br><br>
+			<ul class="no_pad">
+
+			<a href="article12.html">Recently Added: Imaging Pulmonary Embolus</a>
+
+			<br><br>
+                        <a href="article25.html">Recently Added: Film Critique Part 1 & 2 Chest and Abdomen</a>
+
+			<br><br>
+
+			See our <a href="article.php">Articles page</a> for more
+			</div><br>
+-->
+
+
+
+<div class="border_blue" style="padding: 10px;">
+<!--
+<b class="blue">Approvals and requirements satisfied:</b>
+<br><br>
+<b class="blue">Articles</b>
+-->
+<b class="blue">Approvals for and requirements satisfied by our articles:</b>
+<br><br>
+<ul class="no_pad">
+	<li>All of our articles are ASRT approved for Catagory A credit</li>
+	<li>All of our articles meet ARRT CE reporting requirements</li>
+	<li>All articles meet the requirements for California Radiology Continuing Education credit</li>
+	<li>All Articles are approved for California, Iowa and Illinois state credit using ASRT number found on completion certificate.</li>
+</ul>
+
+</div>
+<br>
+
+<!-- -->
+			<div class="red_border">
+			<br>
+			<a href="article12.html">Recently Added: Imaging Pulmonary Embolus</a>
+			<br><br>
+
+                        <a href="article25.html">Recently Added: Film Critique Chest & Abdomen</a>
+			<br><br>
+
+			</div><br>
+<!-- -->
+
+<!-- -->
+			<div class="red_border">
+			<br>
+			<a href="case.php">Solve This Case</a>			
+<br><br>
+			</div><br>
+<!-- -->
+
+
+		</td>
+		<td width="5%">
+			&nbsp;
+		</td>
+		<td valign="top">
+<b>CE Essentials</b> offers ASRT approved Category A CE credits. Our goal is to make <b>radiography continuing education</b> as informative, convenient, and affordable as possible. All of our online self-learning articles meet the guidelines of the ARRT approved by the ASRT for Category A credit. All of our online radiology CE credit courses also meet the requirements for California radiology continuing education, Illinois, Iowa, Kentucky, and all State <b>X ray</b> license renewal.   
+<br><br>
+
+-->
+Our pricing options include 1-year and 2-year memberships that allow you to take unlimited CE credits with no additional fees for articles or test after initial sign up and payment.  You will find that no one offers better pricing and selection of articles.<br><br>
+-->
+
+
+Please take the time to browse our website and discover the advantages we offer. If you have any suggestions, topics that you would like to see covered in the future, or would like to write an article please email us. Your input will help us to better serve you. All of us at CE Essentials would like to thank you for choosing us as your source for your radiography continuing education needs!<br><br>
+
+		</td>
+	</tr>
+</table>
+
+	</div><!-- content -->
+	<!--footer-->
+	<div id="footer" class="footer">
+		<a href="index.php">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="article.php">Articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="seminars.php">Seminars</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="links.php">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="about.php">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="contact.php">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="login.php">Log In</a>		<br><br><span class="copyright">All Site Content &copy;2004-2015 CE Essentials, LLC; All Rights Reserved.</span>
+	</div><!--footer-->
+
+	</div><!-- wrapper -->
+
+	</body>
+	</html>
+
+	
